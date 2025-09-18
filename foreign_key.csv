@@ -1,0 +1,6 @@
+user_id,name,email,gender,date_of_birth,street,city,state,pincode
+1,HAMNA,hamna@gmail.com,Female,2000-09-19,"123 MG Road",Bengaluru,Karnataka,560001
+1,HAMNA,hamna@gmail.com,Female,2000-09-19,"22 Residency Road",Bengaluru,Karnataka,560025
+2,ABC,abc@gmail.com,Male,2001-09-18,"45 Park Street",Kolkata,"West Bengal",700016
+2,ABC,abc@gmail.com,Male,2001-09-18,"88 Connaught Place","New Delhi",Delhi,110001
+3,XYZ,xyz@gmail.com,Others,1999-09-17,"10 Marine Drive",Mumbai,Maharashtra,400001
